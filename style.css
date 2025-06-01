@@ -1,0 +1,41 @@
+body {
+  font-family: 'Hiragino Kaku Gothic ProN', 'メイリオ', sans-serif;
+  background-color: #f9fafb;
+  color: #111827;
+}
+
+input[type="text"],
+input[type="number"] {
+  font-size: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+input:focus {
+  border-color: #3b82f6;
+}
+
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.01);
+  transition: all 0.2s ease;
+}
+
+#feedback.correct {
+  color: #16a34a; 
+}
+#feedback.incorrect {
+  color: #dc2626; 
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+}
