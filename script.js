@@ -28,6 +28,7 @@ document.getElementById("startBtn").addEventListener("click", () => {
   const minPop = parseInt(document.getElementById("minPop").value);
   const maxPop = parseInt(document.getElementById("maxPop").value);
   const questionCount = parseInt(document.getElementById("questionCount").value);
+  setupElem.style.display = "none";
 
   filteredCities = cities.filter(c => c.population >= minPop && c.population <= maxPop);
   questions = shuffleArray(filteredCities).slice(0, questionCount);
