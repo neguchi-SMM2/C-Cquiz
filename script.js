@@ -1,73 +1,97 @@
-const cities = [
-  { name: "Tokyo", country: "Japan", population: 37400068 },
-  { name: "Delhi", country: "India", population: 28514000 },
-  { name: "Osaka", country: "Japan", population: 19222665 },
-  { name: "New York", country: "United States", population: 18713220 },
-  { name: "Paris", country: "France", population: 11020000 },
-  { name: "Sapporo", country: "Japan", population: 1950000 },
-  { name: "Seoul", country: "South Korea", population: 9733509 },
-  { name: "London", country: "United Kingdom", population: 8982000 }
-];
+let cities = [];
+let filteredCities = [];
+let currentQuestion = 0;
+let score = 0;
+let questionLives = 3;
+let totalLives = 3;
+let questions = [];
 
-let filtered = [], current = 0, score = 0, lives = 3;
+const cityNameElem = document.getElementById("cityName");
+const answerElem = document.getElementById("answer");
+const feedbackElem = document.getElementById("feedback");
+const quizElem = document.getElementById("quiz");
+const setupElem = document.getElementById("setup");
+const resultElem = document.getElementById("result");
+const resultTextElem = document.getElementById("resultText");
+const scoreElem = document.getElementById("score");
+const totalElem = document.getElementById("total");
+const questionLivesElem = document.getElementById("questionLives");
+const totalLivesElem = document.getElementById("totalLives");
 
-const setup = document.getElementById("setup");
-const quiz = document.getElementById("quiz");
-const result = document.getElementById("result");
-const cityName = document.getElementById("cityName");
-const answer = document.getElementById("answer");
-const feedback = document.getElementById("feedback");
-const livesSpan = document.getElementById("lives");
-const scoreSpan = document.getElementById("score");
-const totalSpan = document.getElementById("total");
+fetch("cities.json")
+  .then(res => res.json())
+  .then(data => {
+    cities = data;
+  });
 
-function showQuestion() {
-  const q = filtered[current];
-  cityName.textContent = q.name;
-  answer.value = "";
-  feedback.textContent = "";
-}
+document.getElementById("startBtn").addEventListener("click", () => {
+  const minPop = parseInt(document.getElementById("minPop").value);
+  const maxPop = parseInt(document.getElementById("maxPop").value);
+  const questionCount = parseInt(document.getElementById("questionCount").value);
 
-document.getElementById("startBtn").onclick = () => {
-  const min = parseInt(document.getElementById("minPop").value);
-  const max = parseInt(document.getElementById("maxPop").value);
-  const count = parseInt(document.getElementById("questionCount").value);
-  filtered = cities.filter(c => c.population >= min && c.population <= max);
-  filtered = filtered.sort(() => 0.5 - Math.random()).slice(0, count);
-  if (filtered.length === 0) {
-    alert("その人口範囲には都市がありません。");
-    return;
-  }
-  setup.classList.add("hidden");
-  quiz.classList.remove("hidden");
-  totalSpan.textContent = filtered.length;
+  filteredCities = cities.filter(c => c.population >= minPop && c.population <= maxPop);
+  questions = shuffleArray(filteredCities).slice(0, questionCount);
+
+  totalElem.textContent = questions.length;
+  setupElem.classList.add("hidden");
+  quizElem.classList.remove("hidden");
   showQuestion();
-};
+});
 
-document.getElementById("submitBtn").onclick = () => {
-  const input = answer.value.trim().toLowerCase();
-  const correct = filtered[current].country.toLowerCase();
-  if (input === correct) {
-    feedback.textContent = "正解！";
+document.getElementById("submitBtn").addEventListener("click", () => {
+  const answer = answerElem.value.trim();
+  const correct = questions[currentQuestion].country_jp;
+
+  if (answer === correct) {
     score++;
-    scoreSpan.textContent = score;
+    feedbackElem.textContent = "正解！";
+    currentQuestion++;
+    questionLives = 3;
+    setTimeout(() => {
+      if (currentQuestion >= questions.length) {
+        showResult();
+      } else {
+        showQuestion();
+      }
+    }, 800);
   } else {
-    feedback.textContent = `不正解！ 正解: ${filtered[current].country}`;
-    lives--;
-    livesSpan.textContent = lives;
-    if (lives <= 0) {
-      quiz.classList.add("hidden");
-      result.classList.remove("hidden");
-      document.getElementById("resultText").textContent = `ゲームオーバー！正解数: ${score}`;
-      return;
+    questionLives--;
+    totalLives--;
+    feedbackElem.textContent = `不正解... 正解は ${correct} ではありません。`;
+    updateStatus();
+    if (questionLives <= 0 || totalLives <= 0) {
+      setTimeout(showResult, 800);
     }
   }
-  current++;
-  if (current >= filtered.length) {
-    quiz.classList.add("hidden");
-    result.classList.remove("hidden");
-    document.getElementById("resultText").textContent = `クリア！正解数: ${score}`;
+});
+
+function showQuestion() {
+  const q = questions[currentQuestion];
+  cityNameElem.textContent = q.city;
+  answerElem.value = "";
+  feedbackElem.textContent = "";
+  questionLives = 3;
+  updateStatus();
+}
+
+function showResult() {
+  quizElem.classList.add("hidden");
+  resultElem.classList.remove("hidden");
+  if (score >= questions.length) {
+    resultTextElem.textContent = `🎉 全問正解！ (${score}/${questions.length})`;
+  } else if (totalLives <= 0) {
+    resultTextElem.textContent = `😢 ゲームオーバー！ (${score}/${questions.length})`;
   } else {
-    showQuestion();
+    resultTextElem.textContent = `終了！ (${score}/${questions.length})`;
   }
-};
+}
+
+function updateStatus() {
+  scoreElem.textContent = score;
+  questionLivesElem.textContent = questionLives;
+  totalLivesElem.textContent = totalLives;
+}
+
+function shuffleArray(arr) {
+  return [...arr].sort(() => Math.random() - 0.5);
+}

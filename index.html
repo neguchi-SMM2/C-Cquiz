@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>都市クイズ</title>
+  <title>都市→国クイズ</title>
+  <link href="style.css" rel="stylesheet">
   <script defer src="script.js"></script>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100 text-gray-900 min-h-screen flex flex-col items-center p-4">
   <div class="max-w-md w-full">
@@ -25,10 +25,11 @@
 
     <div id="quiz" class="hidden space-y-4 mt-6">
       <div class="text-xl">都市: <span id="cityName" class="font-semibold"></span></div>
-      <input id="answer" type="text" placeholder="国名を入力" class="w-full p-2 border rounded" />
+      <input id="answer" type="text" placeholder="国名を日本語で入力（例：日本）" class="w-full p-2 border rounded" />
       <button id="submitBtn" class="w-full bg-green-500 text-white py-2 rounded">送信</button>
       <div id="feedback" class="text-center font-bold"></div>
-      <div class="text-sm text-right">残りミス: <span id="lives">3</span> | 正解: <span id="score">0</span>/<span id="total"></span></div>
+      <div class="text-sm text-right">この問題の残りミス: <span id="questionLives">3</span></div>
+      <div class="text-sm text-right">総残りミス: <span id="totalLives">3</span> | 正解: <span id="score">0</span>/<span id="total"></span></div>
     </div>
 
     <div id="result" class="hidden text-center mt-6 space-y-4">

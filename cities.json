@@ -1,0 +1,17 @@
+[
+  { "city": "東京", "country_jp": "日本", "population": 37400068 },
+  { "city": "ニューヨーク", "country_jp": "アメリカ合衆国", "population": 18804000 },
+  { "city": "ソウル", "country_jp": "韓国", "population": 25600000 },
+  { "city": "上海", "country_jp": "中国", "population": 26320000 },
+  { "city": "ムンバイ", "country_jp": "インド", "population": 20670000 },
+  { "city": "ロンドン", "country_jp": "イギリス", "population": 9304000 },
+  { "city": "パリ", "country_jp": "フランス", "population": 11020000 },
+  { "city": "シドニー", "country_jp": "オーストラリア", "population": 5312000 },
+  { "city": "ベルリン", "country_jp": "ドイツ", "population": 3769000 },
+  { "city": "カイロ", "country_jp": "エジプト", "population": 20400000 },
+  { "city": "イスタンブール", "country_jp": "トルコ", "population": 15460000 },
+  { "city": "サンパウロ", "country_jp": "ブラジル", "population": 22040000 },
+  { "city": "メキシコシティ", "country_jp": "メキシコ", "population": 21670000 },
+  { "city": "ジャカルタ", "country_jp": "インドネシア", "population": 33400000 },
+  { "city": "トロント", "country_jp": "カナダ", "population": 6210000 }
+]
