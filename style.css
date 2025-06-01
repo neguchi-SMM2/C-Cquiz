@@ -1,49 +1,43 @@
+/* style.css */
+
+/* 正解・不正解フィードバック */
+.correct {
+  color: #16a34a; /* 緑 */
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.incorrect {
+  color: #dc2626; /* 赤 */
+  animation: shake 0.3s ease-in-out;
+}
+
+/* アニメーション */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  50% { transform: translateX(4px); }
+  75% { transform: translateX(-4px); }
+  100% { transform: translateX(0); }
+}
+
+/* スマホ対応補助（Tailwindと組み合わせ） */
 body {
-  font-family: 'Hiragino Kaku Gothic ProN', 'メイリオ', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
   background-color: #f9fafb;
-  color: #111827;
 }
 
 input[type="text"],
 input[type="number"] {
   font-size: 1rem;
-  border: 1px solid #d1d5db;
-  border-radius: 0.5rem;
-  padding: 0.5rem;
-  outline: none;
-  transition: border-color 0.2s;
-}
-input:focus {
-  border-color: #3b82f6;
-}
-
-#quiz {
-  display: none;
-}
-
-#setup {
-  display: flex;
-}
-
-button:hover {
-  opacity: 0.9;
-  transform: scale(1.01);
-  transition: all 0.2s ease;
-}
-
-#feedback.correct {
-  color: #16a34a; 
-}
-#feedback.incorrect {
-  color: #dc2626; 
-}
-
-@media (max-width: 480px) {
-  body {
-    padding: 1rem;
-  }
-
-  h1 {
-    font-size: 1.5rem;
-  }
 }

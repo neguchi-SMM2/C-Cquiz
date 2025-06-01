@@ -10,19 +10,17 @@
 <body class="bg-gray-100 text-gray-900 min-h-screen flex flex-col items-center p-4">
   <div class="max-w-md w-full">
     <h1 class="text-2xl font-bold text-center mb-4">都市→国クイズ</h1>
+
     <div id="setup" class="space-y-4">
       <label class="block">
         人口の最小値：<input id="minPop" type="number" class="w-full p-2 border rounded" value="0" />
       </label>
-      <br>
       <label class="block">
         人口の最大値：<input id="maxPop" type="number" class="w-full p-2 border rounded" value="10000000" />
       </label>
-      <br>
       <label class="block">
         問題数：<input id="questionCount" type="number" class="w-full p-2 border rounded" value="5" />
       </label>
-      <br>
       <button id="startBtn" class="w-full bg-blue-500 text-white py-2 rounded">スタート</button>
     </div>
 
@@ -32,11 +30,12 @@
       <button id="submitBtn" class="w-full bg-green-500 text-white py-2 rounded">送信</button>
       <div id="feedback" class="text-center font-bold"></div>
       <div class="text-sm text-right">この問題の残りミス: <span id="questionLives">3</span></div>
-      <div class="text-sm text-right">総残りミス: <span id="totalLives">3</span> | 正解: <span id="score">0</span>/<span id="total"></span></div>
+      <div class="text-sm text-right">正解: <span id="score">0</span>/<span id="total"></span></div>
     </div>
 
     <div id="result" class="hidden text-center mt-6 space-y-4">
       <div id="resultText" class="text-xl font-bold"></div>
+      <div id="answerReveal" class="text-sm text-gray-700"></div>
       <button onclick="location.reload()" class="bg-blue-500 text-white py-2 px-4 rounded">もう一度</button>
     </div>
   </div>
