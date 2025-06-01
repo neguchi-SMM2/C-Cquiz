@@ -57,7 +57,7 @@ document.getElementById("submitBtn").addEventListener("click", () => {
   } else {
     questionLives--;
     totalLives--;
-    feedbackElem.textContent = `不正解... 正解は ${correct} ではありません。`;
+    feedbackElem.textContent = `不正解... 正解は ${answer} ではありません。`;
     updateStatus();
     if (questionLives <= 0 || totalLives <= 0) {
       setTimeout(showResult, 800);
