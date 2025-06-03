@@ -27,9 +27,4 @@ addBtn.addEventListener("click", () => {
 
   // JSON出力更新
   output.value = JSON.stringify(cities, null, 2);
-
-  // 入力クリア
-  nameInput.value = "";
-  countryInput.value = "";
-  populationInput.value = "";
 });
