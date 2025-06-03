@@ -1353,5 +1353,1045 @@
     "name": "ベルビュー",
     "country": "アメリカ",
     "population": 151854
+  },
+  {
+    "name": "ポモナ",
+    "country": "アメリカ",
+    "population": 151713
+  },
+  {
+    "name": "エスコンディード",
+    "country": "アメリカ",
+    "population": 151038
+  },
+  {
+    "name": "ジョリエット",
+    "country": "アメリカ",
+    "population": 150362
+  },
+  {
+    "name": "チャールストン",
+    "country": "アメリカ",
+    "population": 150227
+  },
+  {
+    "name": "メスキート",
+    "country": "アメリカ",
+    "population": 150108
+  },
+  {
+    "name": "ネイパービル",
+    "country": "アメリカ",
+    "population": 149540
+  },
+  {
+    "name": "ロックフォード",
+    "country": "アメリカ",
+    "population": 148655
+  },
+  {
+    "name": "ブリッジポート",
+    "country": "アメリカ",
+    "population": 148654
+  },
+  {
+    "name": "シラキュース",
+    "country": "アメリカ",
+    "population": 148620
+  },
+  {
+    "name": "サバンナ",
+    "country": "アメリカ",
+    "population": 147780
+  },
+  {
+    "name": "ローズビル",
+    "country": "アメリカ",
+    "population": 147773
+  },
+  {
+    "name": "トーランス",
+    "country": "アメリカ",
+    "population": 147067
+  },
+  {
+    "name": "フラートン",
+    "country": "アメリカ",
+    "population": 143617
+  },
+  {
+    "name": "サプライズ",
+    "country": "アメリカ",
+    "population": 143148
+  },
+  {
+    "name": "マッカレン",
+    "country": "アメリカ",
+    "population": 142210
+  },
+  {
+    "name": "ソーントン",
+    "country": "アメリカ",
+    "population": 141867
+  },
+  {
+    "name": "バイセイリア",
+    "country": "アメリカ",
+    "population": 141384
+  },
+  {
+    "name": "オレイサ",
+    "country": "アメリカ",
+    "population": 141290
+  },
+  {
+    "name": "ゲインズビル",
+    "country": "アメリカ",
+    "population": 141085
+  },
+  {
+    "name": "ウェストバレーシティ",
+    "country": "アメリカ",
+    "population": 140230
+  },
+  {
+    "name": "オレンジ",
+    "country": "アメリカ",
+    "population": 139911
+  },
+  {
+    "name": "デントン",
+    "country": "アメリカ",
+    "population": 139869
+  },
+  {
+    "name": "ウォーレン",
+    "country": "アメリカ",
+    "population": 139387
+  },
+  {
+    "name": "パサディナ",
+    "country": "アメリカ",
+    "population": 137122
+  },
+  {
+    "name": "ウェーコ",
+    "country": "アメリカ",
+    "population": 138486
+  },
+  {
+    "name": "シーダーラピッズ",
+    "country": "アメリカ",
+    "population": 137710
+  },
+  {
+    "name": "デイトン",
+    "country": "アメリカ",
+    "population": 137644
+  },
+  {
+    "name": "エリザベス",
+    "country": "アメリカ",
+    "population": 137298
+  },
+  {
+    "name": "ハンプトン",
+    "country": "アメリカ",
+    "population": 137148
+  },
+  {
+    "name": "コロンビア",
+    "country": "アメリカ",
+    "population": 136632
+  },
+  {
+    "name": "ケント",
+    "country": "アメリカ",
+    "population": 136588
+  },
+  {
+    "name": "スタンフォード",
+    "country": "アメリカ",
+    "population": 135470
+  },
+  {
+    "name": "レイクウッド",
+    "country": "アメリカ",
+    "population": 135158
+  },
+  {
+    "name": "ビクタービル",
+    "country": "アメリカ",
+    "population": 134810
+  },
+  {
+    "name": "ミラマー",
+    "country": "アメリカ",
+    "population": 134721
+  },
+  {
+    "name": "コーラルスプリングス",
+    "country": "アメリカ",
+    "population": 134394
+  },
+  {
+    "name": "スターリングハイツ",
+    "country": "アメリカ",
+    "population": 134346
+  },
+  {
+    "name": "ニューヘイブン",
+    "country": "アメリカ",
+    "population": 134023
+  },
+  {
+    "name": "キャロルトン",
+    "country": "アメリカ",
+    "population": 133434
+  },
+  {
+    "name": "ミッドランド",
+    "country": "アメリカ",
+    "population": 132524
+  },
+  {
+    "name": "ノーマン",
+    "country": "アメリカ",
+    "population": 128026
+  },
+  {
+    "name": "サンタクララ",
+    "country": "アメリカ",
+    "population": 127647
+  },
+  {
+    "name": "アセンズ",
+    "country": "アメリカ",
+    "population": 127315
+  },
+  {
+    "name": "サウザンドオークス",
+    "country": "アメリカ",
+    "population": 126966
+  },
+  {
+    "name": "トピカ",
+    "country": "アメリカ",
+    "population": 126587
+  },
+  {
+    "name": "シミバレー",
+    "country": "アメリカ",
+    "population": 126356
+  },
+  {
+    "name": "コロンビア",
+    "country": "アメリカ",
+    "population": 126254
+  },
+  {
+    "name": "ヴァレーオ",
+    "country": "アメリカ",
+    "population": 126090
+  },
+  {
+    "name": "ファーゴ",
+    "country": "アメリカ",
+    "population": 125990
+  },
+  {
+    "name": "アレンタウン",
+    "country": "アメリカ",
+    "population": 125845
+  },
+  {
+    "name": "ペアランド",
+    "country": "アメリカ",
+    "population": 125828
+  },
+  {
+    "name": "コンコード",
+    "country": "アメリカ",
+    "population": 125410
+  },
+  {
+    "name": "アビリーン",
+    "country": "アメリカ",
+    "population": 125182
+  },
+  {
+    "name": "アーバダ",
+    "country": "アメリカ",
+    "population": 124402
+  },
+  {
+    "name": "バークレー",
+    "country": "アメリカ",
+    "population": 124321
+  },
+  {
+    "name": "アナーバー",
+    "country": "アメリカ",
+    "population": 123851
+  },
+  {
+    "name": "インディペンデンス",
+    "country": "アメリカ",
+    "population": 123011
+  },
+  {
+    "name": "ロチェスター",
+    "country": "アメリカ",
+    "population": 121395
+  },
+  {
+    "name": "ラファイエット",
+    "country": "アメリカ",
+    "population": 121374
+  },
+  {
+    "name": "ハートフォード",
+    "country": "アメリカ",
+    "population": 121054
+  },
+  {
+    "name": "カレッジステーション",
+    "country": "アメリカ",
+    "population": 120511
+  },
+  {
+    "name": "クロービス",
+    "country": "アメリカ",
+    "population": 120124
+  },
+  {
+    "name": "フェアフィールド",
+    "country": "アメリカ",
+    "population": 119881
+  },
+  {
+    "name": "パームベイ",
+    "country": "アメリカ",
+    "population": 119760
+  },
+  {
+    "name": "リチャードソン",
+    "country": "アメリカ",
+    "population": 119469
+  },
+  {
+    "name": "ラウンドロック",
+    "country": "アメリカ",
+    "population": 119468
+  },
+  {
+    "name": "ケンブリッジ",
+    "country": "アメリカ",
+    "population": 118403
+  },
+  {
+    "name": "メリディアン",
+    "country": "アメリカ",
+    "population": 117635
+  },
+  {
+    "name": "ウェストパームビーチ",
+    "country": "アメリカ",
+    "population": 117415
+  },
+  {
+    "name": "エバンズビル",
+    "country": "アメリカ",
+    "population": 117298
+  },
+  {
+    "name": "クリアウォーター",
+    "country": "アメリカ",
+    "population": 117292
+  },
+  {
+    "name": "ビリングス",
+    "country": "アメリカ",
+    "population": 117116
+  },
+  {
+    "name": "ウェストジョーダン",
+    "country": "アメリカ",
+    "population": 116961
+  },
+  {
+    "name": "リッチモンド",
+    "country": "アメリカ",
+    "population": 116448
+  },
+  {
+    "name": "ウェストミンスター",
+    "country": "アメリカ",
+    "population": 116317
+  },
+  {
+    "name": "マンチェスター",
+    "country": "アメリカ",
+    "population": 115644
+  },
+  {
+    "name": "ローウェル",
+    "country": "アメリカ",
+    "population": 115554
+  },
+  {
+    "name": "ウィルミントン",
+    "country": "アメリカ",
+    "population": 115451
+  },
+  {
+    "name": "アンティオック",
+    "country": "アメリカ",
+    "population": 115291
+  },
+  {
+    "name": "ボーモント",
+    "country": "アメリカ",
+    "population": 115282
+  },
+  {
+    "name": "プロボ",
+    "country": "アメリカ",
+    "population": 115162
+  },
+  {
+    "name": "ノースチャールストン",
+    "country": "アメリカ",
+    "population": 114852
+  },
+  {
+    "name": "エルジン",
+    "country": "アメリカ",
+    "population": 114797
+  },
+  {
+    "name": "カールスバッド",
+    "country": "アメリカ",
+    "population": 114746
+  },
+  {
+    "name": "オデッサ",
+    "country": "アメリカ",
+    "population": 114428
+  },
+  {
+    "name": "ウォーターバリー",
+    "country": "アメリカ",
+    "population": 114403
+  },
+  {
+    "name": "スプリングフィールド",
+    "country": "アメリカ",
+    "population": 114394
+  },
+  {
+    "name": "リーグシティ",
+    "country": "アメリカ",
+    "population": 114392
+  },
+  {
+    "name": "ダウニー",
+    "country": "アメリカ",
+    "population": 114355
+  },
+  {
+    "name": "グレシャム",
+    "country": "アメリカ",
+    "population": 114247
+  },
+  {
+    "name": "ハイポイント",
+    "country": "アメリカ",
+    "population": 114059
+  },
+  {
+    "name": "ブロークンアロー",
+    "country": "アメリカ",
+    "population": 113540
+  },
+  {
+    "name": "ピオリア",
+    "country": "アメリカ",
+    "population": 113150
+  },
+  {
+    "name": "ランシング",
+    "country": "アメリカ",
+    "population": 112644
+  },
+  {
+    "name": "レイクランド",
+    "country": "アメリカ",
+    "population": 112644
+  },
+  {
+    "name": "ポンパノビーチ",
+    "country": "アメリカ",
+    "population": 112046
+  },
+  {
+    "name": "コスタメサ",
+    "country": "アメリカ",
+    "population": 111918
+  },
+  {
+    "name": "プエブロ",
+    "country": "アメリカ",
+    "population": 111876
+  },
+  {
+    "name": "ルイスビル",
+    "country": "アメリカ",
+    "population": 111822
+  },
+  {
+    "name": "マイアミガーデンズ",
+    "country": "アメリカ",
+    "population": 111640
+  },
+  {
+    "name": "ラスクルーセス",
+    "country": "アメリカ",
+    "population": 111385
+  },
+  {
+    "name": "シュガーランド",
+    "country": "アメリカ",
+    "population": 111026
+  },
+  {
+    "name": "マリエータ",
+    "country": "アメリカ",
+    "population": 110949
+  },
+  {
+    "name": "ベンチュラ",
+    "country": "アメリカ",
+    "population": 110763
+  },
+  {
+    "name": "エベレット",
+    "country": "アメリカ",
+    "population": 110629
+  },
+  {
+    "name": "テメキュラ",
+    "country": "アメリカ",
+    "population": 110003
+  },
+  {
+    "name": "ディアボーン",
+    "country": "アメリカ",
+    "population": 109976
+  },
+  {
+    "name": "サンタマリア",
+    "country": "アメリカ",
+    "population": 109707
+  },
+  {
+    "name": "ウエストコビーナ",
+    "country": "アメリカ",
+    "population": 109501
+  },
+  {
+    "name": "エルモンテ",
+    "country": "アメリカ",
+    "population": 109450
+  },
+  {
+    "name": "グリーリー",
+    "country": "アメリカ",
+    "population": 108795
+  },
+  {
+    "name": "スパークス",
+    "country": "アメリカ",
+    "population": 108445
+  },
+  {
+    "name": "センテニアル",
+    "country": "アメリカ",
+    "population": 108418
+  },
+  {
+    "name": "ボルダー",
+    "country": "アメリカ",
+    "population": 108250
+  },
+  {
+    "name": "サンディスプリングス",
+    "country": "アメリカ",
+    "population": 108080
+  },
+  {
+    "name": "イングルウッド",
+    "country": "アメリカ",
+    "population": 107762
+  },
+  {
+    "name": "エディソン",
+    "country": "アメリカ",
+    "population": 107588
+  },
+  {
+    "name": "サウスフルトン",
+    "country": "アメリカ",
+    "population": 107436
+  },
+  {
+    "name": "グリーンベイ",
+    "country": "アメリカ",
+    "population": 107395
+  },
+  {
+    "name": "バーバンク",
+    "country": "アメリカ",
+    "population": 107337
+  },
+  {
+    "name": "レントン",
+    "country": "アメリカ",
+    "population": 106785
+  },
+  {
+    "name": "ヒルズボロ",
+    "country": "アメリカ",
+    "population": 106447
+  },
+  {
+    "name": "エルカホン",
+    "country": "アメリカ",
+    "population": 106215
+  },
+  {
+    "name": "タイラー",
+    "country": "アメリカ",
+    "population": 105995
+  },
+  {
+    "name": "デイビー",
+    "country": "アメリカ",
+    "population": 105691
+  },
+  {
+    "name": "サンマテオ",
+    "country": "アメリカ",
+    "population": 105661
+  },
+  {
+    "name": "ブロックトン",
+    "country": "アメリカ",
+    "population": 105643
+  },
+  {
+    "name": "コンコード",
+    "country": "アメリカ",
+    "population": 105240
+  },
+  {
+    "name": "フルパバレー",
+    "country": "アメリカ",
+    "population": 105053
+  },
+  {
+    "name": "デイリーシティ",
+    "country": "アメリカ",
+    "population": 104901
+  },
+  {
+    "name": "アレン",
+    "country": "アメリカ",
+    "population": 104627
+  },
+  {
+    "name": "リオランチョ",
+    "country": "アメリカ",
+    "population": 104046
+  },
+  {
+    "name": "リアルト",
+    "country": "アメリカ",
+    "population": 104026
+  },
+  {
+    "name": "ウッドブリッジ",
+    "country": "アメリカ",
+    "population": 103639
+  },
+  {
+    "name": "サウスベンド",
+    "country": "アメリカ",
+    "population": 103453
+  },
+  {
+    "name": "スポケーンバレー",
+    "country": "アメリカ",
+    "population": 102976
+  },
+  {
+    "name": "ノーウォーク",
+    "country": "アメリカ",
+    "population": 102773
+  },
+  {
+    "name": "メニフィー",
+    "country": "アメリカ",
+    "population": 102527
+  },
+  {
+    "name": "バカビル",
+    "country": "アメリカ",
+    "population": 102386
+  },
+  {
+    "name": "ウィチタフォールズ",
+    "country": "アメリカ",
+    "population": 102316
+  },
+  {
+    "name": "ダベンポート",
+    "country": "アメリカ",
+    "population": 101724
+  },
+  {
+    "name": "クインシー",
+    "country": "アメリカ",
+    "population": 101636
+  },
+  {
+    "name": "チコ",
+    "country": "アメリカ",
+    "population": 101475
+  },
+  {
+    "name": "リン",
+    "country": "アメリカ",
+    "population": 101253
+  },
+  {
+    "name": "リーズ・サミット",
+    "country": "アメリカ",
+    "population": 101108
+  },
+  {
+    "name": "ニューベッドフォード",
+    "country": "アメリカ",
+    "population": 101079
+  },
+  {
+    "name": "フェデラルウェイ",
+    "country": "アメリカ",
+    "population": 101030
+  },
+  {
+    "name": "クリントン",
+    "country": "アメリカ",
+    "population": 100513
+  },
+  {
+    "name": "エディンバーグ",
+    "country": "アメリカ",
+    "population": 100243
+  },
+  {
+    "name": "ナンパ",
+    "country": "アメリカ",
+    "population": 100200
+  },
+  {
+    "name": "ロアノーク",
+    "country": "アメリカ",
+    "population": 100011
+  },
+  {
+    "name": "サンフアン",
+    "country": "アメリカ",
+    "population": 342259
+  },
+  {
+    "name": "バヤモン",
+    "country": "アメリカ",
+    "population": 185187
+  },
+  {
+    "name": "カロリーナ",
+    "country": "アメリカ",
+    "population": 154815
+  },
+  {
+    "name": "ポンセ",
+    "country": "アメリカ",
+    "population": 137491
+  },
+  {
+    "name": "カグアス",
+    "country": "アメリカ",
+    "population": 127244
+  },
+  {
+    "name": "ドバイ",
+    "country": "UAE",
+    "population": 2459068
+  },
+  {
+    "name": "アブダビ",
+    "country": "UAE",
+    "population": 1500000
+  },
+  {
+    "name": "シャールジャ",
+    "country": "UAE",
+    "population": 1400000
+  },
+  {
+    "name": "アル・アイン",
+    "country": "UAE",
+    "population": 631005
+  },
+  {
+    "name": "フジャイラ",
+    "country": "UAE",
+    "population": 202667
+  },
+  {
+    "name": "アジュマーン",
+    "country": "UAE",
+    "population": 490035
+  },
+  {
+    "name": "ディバ・アル・フジャイラ",
+    "country": "UAE",
+    "population": 41017
+  },
+  {
+    "name": "ディバ・アル・ヒスン",
+    "country": "UAE",
+    "population": 29301
+  },
+  {
+    "name": "ホール・ファッカーン",
+    "country": "UAE",
+    "population": 39515
+  },
+  {
+    "name": "ラアス・アル＝ハイマ",
+    "country": "UAE",
+    "population": 115949
+  },
+  {
+    "name": "ウンム・アル＝カイワイン",
+    "country": "UAE",
+    "population": 32800
+  },
+  {
+    "name": "カルバ",
+    "country": "UAE",
+    "population": 37545
+  },
+  {
+    "name": "アルジェ",
+    "country": "アルジェリア",
+    "population": 3415811
+  },
+  {
+    "name": "オラン",
+    "country": "アルジェリア",
+    "population": 803329
+  },
+  {
+    "name": "コンスタンティーヌ",
+    "country": "アルジェリア",
+    "population": 448374
+  },
+  {
+    "name": "ジェルファ",
+    "country": "アルジェリア",
+    "population": 339248
+  },
+  {
+    "name": "バトナ",
+    "country": "アルジェリア",
+    "population": 290645
+  },
+  {
+    "name": "セティフ",
+    "country": "アルジェリア",
+    "population": 288461
+  },
+  {
+    "name": "アンナバ",
+    "country": "アルジェリア",
+    "population": 257359
+  },
+  {
+    "name": "シディ・ベル・アッベス",
+    "country": "アルジェリア",
+    "population": 212935
+  },
+  {
+    "name": "ビスクラ",
+    "country": "アルジェリア",
+    "population": 204661
+  },
+  {
+    "name": "ブリダ",
+    "country": "アルジェリア",
+    "population": 182447
+  },
+  {
+    "name": "アンナバ",
+    "country": "アルジェリア",
+    "population": 348554
+  },
+  {
+    "name": "イナメナス",
+    "country": "アルジェリア",
+    "population": 5302
+  },
+  {
+    "name": "イリジ",
+    "country": "アルジェリア",
+    "population": 17252
+  },
+  {
+    "name": "インサラー",
+    "country": "アルジェリア",
+    "population": 32518
+  },
+  {
+    "name": "エル・ウェッド",
+    "country": "アルジェリア",
+    "population": 134699
+  },
+  {
+    "name": "エル・フロウブ",
+    "country": "アルジェリア",
+    "population": 179033
+  },
+  {
+    "name": "ガルダイア",
+    "country": "アルジェリア",
+    "population": 142913
+  },
+  {
+    "name": "ゲルマ",
+    "country": "アルジェリア",
+    "population": 120004
+  },
+  {
+    "name": "サイダ",
+    "country": "アルジェリア",
+    "population": 131000
+  },
+  {
+    "name": "ジジェル",
+    "country": "アルジェリア",
+    "population": 131513
+  },
+  {
+    "name": "ジャーネット",
+    "country": "アルジェリア",
+    "population": 14655
+  },
+  {
+    "name": "シュレフ",
+    "country": "アルジェリア",
+    "population": 175259
+  },
+  {
+    "name": "スキクダ",
+    "country": "アルジェリア",
+    "population": 182903
+  },
+  {
+    "name": "タマンラセット",
+    "country": "アルジェリア",
+    "population": 92635
+  },
+  {
+    "name": "ティンドゥフ",
+    "country": "アルジェリア",
+    "population": 47965
+  },
+  {
+    "name": "トゥーグラ",
+    "country": "アルジェリア",
+    "population": 143270
+  },
+  {
+    "name": "トレムセン",
+    "country": "アルジェリア",
+    "population": 377400
+  },
+  {
+    "name": "ブイラ",
+    "country": "アルジェリア",
+    "population": 307987
+  },
+  {
+    "name": "ベジャイア",
+    "country": "アルジェリア",
+    "population": 177988
+  },
+  {
+    "name": "ベシャール",
+    "country": "アルジェリア",
+    "population": 134500
+  },
+  {
+    "name": "ヘンシュラ",
+    "country": "アルジェリア",
+    "population": 114472
+  },
+  {
+    "name": "ボルジ・ブ・アレリジ",
+    "country": "アルジェリア",
+    "population": 158812
+  },
+  {
+    "name": "マスカラ",
+    "country": "アルジェリア",
+    "population": 150000
+  },
+  {
+    "name": "ムシラ",
+    "country": "アルジェリア",
+    "population": 132975
+  },
+  {
+    "name": "メデア",
+    "country": "アルジェリア",
+    "population": 145441
+  },
+  {
+    "name": "メルス・エル・ケビール",
+    "country": "アルジェリア",
+    "population": 16950
+  },
+  {
+    "name": "モスタガネム",
+    "country": "アルジェリア",
+    "population": 245330
+  },
+  {
+    "name": "ラグアット",
+    "country": "アルジェリア",
+    "population": 134372
+  },
+  {
+    "name": "ルリザンヌ",
+    "country": "アルジェリア",
+    "population": 123255
+  },
+  {
+    "name": "ワルグラ",
+    "country": "アルジェリア",
+    "population": 133024
   }
 ]
