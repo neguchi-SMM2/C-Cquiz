@@ -238,5 +238,245 @@
     "name": "ターモンフェキン",
     "country": "アイルランド",
     "population": 2016
+  },
+  {
+    "name": "タラモア",
+    "country": "アイルランド",
+    "population": 10900
+  },
+  {
+    "name": "ダン・レアリー",
+    "country": "アイルランド",
+    "population": 26525
+  },
+  {
+    "name": "ディングル",
+    "country": "アイルランド",
+    "population": 1671
+  },
+  {
+    "name": "トラリー",
+    "country": "アイルランド",
+    "population": 20288
+  },
+  {
+    "name": "レタケニー",
+    "country": "アイルランド",
+    "population": 22549
+  },
+  {
+    "name": "ファーモイ",
+    "country": "アイルランド",
+    "population": 5873
+  },
+  {
+    "name": "フィークル",
+    "country": "アイルランド",
+    "population": 122
+  },
+  {
+    "name": "マリンガー",
+    "country": "アイルランド",
+    "population": 20103
+  },
+  {
+    "name": "ミルストリート",
+    "country": "アイルランド",
+    "population": 1500
+  },
+  {
+    "name": "メイヌース",
+    "country": "アイルランド",
+    "population": 10715
+  },
+  {
+    "name": "モナハン",
+    "country": "アイルランド",
+    "population": 6637
+  },
+  {
+    "name": "リスドゥーンバーナ",
+    "country": "アイルランド",
+    "population": 767
+  },
+  {
+    "name": "ロングフォード",
+    "country": "アイルランド",
+    "population": 9601
+  },
+  {
+    "name": "バクー",
+    "country": "アゼルバイジャン",
+    "population": 1229100
+  },
+  {
+    "name": "ギャンジャ",
+    "country": "アゼルバイジャン",
+    "population": 328400
+  },
+  {
+    "name": "スムガイト",
+    "country": "アゼルバイジャン",
+    "population": 297600
+  },
+  {
+    "name": "ミンゲチェヴィル",
+    "country": "アゼルバイジャン",
+    "population": 101600
+  },
+  {
+    "name": "フルダラン",
+    "country": "アゼルバイジャン",
+    "population": 96200
+  },
+  {
+    "name": "カラチュクル",
+    "country": "アゼルバイジャン",
+    "population": 84500
+  },
+  {
+    "name": "シルヴァン",
+    "country": "アゼルバイジャン",
+    "population": 84500
+  },
+  {
+    "name": "シルヴァン",
+    "country": "アゼルバイジャン",
+    "population": 78100
+  },
+  {
+    "name": "ナヒチェヴァン",
+    "country": "アゼルバイジャン",
+    "population": 77400
+  },
+  {
+    "name": "バキハノヴ",
+    "country": "アゼルバイジャン",
+    "population": 73700
+  },
+  {
+    "name": "シャキ",
+    "country": "アゼルバイジャン",
+    "population": 64500
+  },
+  {
+    "name": "レンキャラン",
+    "country": "アゼルバイジャン",
+    "population": 220780
+  },
+  {
+    "name": "シュシャ",
+    "country": "アゼルバイジャン",
+    "population": 4064
+  },
+  {
+    "name": "イェヴラフ",
+    "country": "アゼルバイジャン",
+    "population": 71962
+  },
+  {
+    "name": "ナフタラン",
+    "country": "アゼルバイジャン",
+    "population": 10254
+  },
+  {
+    "name": "セビラバド",
+    "country": "アゼルバイジャン",
+    "population": 30612
+  },
+  {
+    "name": "ハドルト",
+    "country": "アゼルバイジャン",
+    "population": 4100
+  },
+  {
+    "name": "カーブル",
+    "country": "アフガニスタン",
+    "population": 3817200
+  },
+  {
+    "name": "ヘラート",
+    "country": "アフガニスタン",
+    "population": 492000
+  },
+  {
+    "name": "カンダハール",
+    "country": "アフガニスタン",
+    "population": 448300
+  },
+  {
+    "name": "マザーリ・シャリーフ",
+    "country": "アフガニスタン",
+    "population": 415100
+  },
+  {
+    "name": "ジャラーラーバード",
+    "country": "アフガニスタン",
+    "population": 232900
+  },
+  {
+    "name": "クンドゥズ",
+    "country": "アフガニスタン",
+    "population": 162200
+  },
+  {
+    "name": "プリ・フムリー",
+    "country": "アフガニスタン",
+    "population": 110900
+  },
+  {
+    "name": "メイマネ",
+    "country": "アフガニスタン",
+    "population": 86100
+  },
+  {
+    "name": "シェベルガーン",
+    "country": "アフガニスタン",
+    "population": 83900
+  },
+  {
+    "name": "タールカーン",
+    "country": "アフガニスタン",
+    "population": 75200
+  },
+  {
+    "name": "ガズニー",
+    "country": "アフガニスタン",
+    "population": 270000
+  },
+  {
+    "name": "サリ・プル",
+    "country": "アフガニスタン",
+    "population": 150700
+  },
+  {
+    "name": "スピンボルダック",
+    "country": "アフガニスタン",
+    "population": 100400
+  },
+  {
+    "name": "チャグチャラーン",
+    "country": "アフガニスタン",
+    "population": 6700
+  },
+  {
+    "name": "バーミヤーン",
+    "country": "アフガニスタン",
+    "population": 73200
+  },
+  {
+    "name": "バルフ",
+    "country": "アフガニスタン",
+    "population": 116300
+  },
+  {
+    "name": "ファイザーバード",
+    "country": "アフガニスタン",
+    "population": 57400
+  },
+  {
+    "name": "ラシュカルガー",
+    "country": "アフガニスタン",
+    "population": 201546
   }
 ]
