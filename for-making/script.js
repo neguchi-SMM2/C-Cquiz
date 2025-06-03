@@ -2,10 +2,21 @@ const nameInput = document.getElementById("name");
 const countryInput = document.getElementById("country");
 const populationInput = document.getElementById("population");
 const addBtn = document.getElementById("addBtn");
+const loadBtn = document.getElementById("loadBtn");
 const cityList = document.getElementById("cityList");
 const output = document.getElementById("output");
 
 let cities = [];
+
+function updateDisplay() {
+  cityList.innerHTML = "";
+  cities.forEach(city => {
+    const li = document.createElement("li");
+    li.textContent = `${city.name}（${city.country}）: ${city.population.toLocaleString()}`;
+    cityList.appendChild(li);
+  });
+  output.value = JSON.stringify(cities, null, 2);
+}
 
 addBtn.addEventListener("click", () => {
   const name = nameInput.value.trim();
@@ -17,14 +28,29 @@ addBtn.addEventListener("click", () => {
     return;
   }
 
-  const city = { name, country, population };
-  cities.push(city);
+  cities.push({ name, country, population });
+  updateDisplay();
 
-  // 表示更新
-  const li = document.createElement("li");
-  li.textContent = `${name}（${country}）: ${population.toLocaleString()}`;
-  cityList.appendChild(li);
+  nameInput.value = "";
+  populationInput.value = "";
+});
 
-  // JSON出力更新
-  output.value = JSON.stringify(cities, null, 2);
+loadBtn.addEventListener("click", () => {
+  try {
+    const imported = JSON.parse(output.value);
+    if (!Array.isArray(imported)) {
+      alert("配列形式のJSONを貼り付けてください。");
+      return;
+    }
+
+    for (const city of imported) {
+      if (city.name && city.country && typeof city.population === "number") {
+        cities.push(city);
+      }
+    }
+
+    updateDisplay();
+  } catch (e) {
+    alert("有効なJSONデータを貼り付けてください。");
+  }
 });
