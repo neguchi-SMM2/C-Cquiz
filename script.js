@@ -20,5 +20,5 @@ function generate() {
     city.population >= minPop && city.population <= maxPop
   );
 
-  result.innerHTML = selectedCities.map(city => `<li>${city.name} (${city.population})</li>`).join('');
+  result.innerHTML = selectedCities.map(city => `<li>${city.name} - ${city.country} / ${city.population}</li>`).join('');
 }
