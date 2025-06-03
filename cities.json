@@ -478,5 +478,880 @@
     "name": "ラシュカルガー",
     "country": "アフガニスタン",
     "population": 201546
+  },
+  {
+    "name": "ニューヨーク",
+    "country": "アメリカ",
+    "population": 8804190
+  },
+  {
+    "name": "ロサンゼルス",
+    "country": "アメリカ",
+    "population": 3898747
+  },
+  {
+    "name": "シカゴ",
+    "country": "アメリカ",
+    "population": 2746388
+  },
+  {
+    "name": "ヒューストン",
+    "country": "アメリカ",
+    "population": 2304580
+  },
+  {
+    "name": "フェニックス",
+    "country": "アメリカ",
+    "population": 1608139
+  },
+  {
+    "name": "フィラデルフィア",
+    "country": "アメリカ",
+    "population": 1603797
+  },
+  {
+    "name": "サンアントニオ",
+    "country": "アメリカ",
+    "population": 1434625
+  },
+  {
+    "name": "サンディエゴ",
+    "country": "アメリカ",
+    "population": 1386932
+  },
+  {
+    "name": "ダラス",
+    "country": "アメリカ",
+    "population": 1304379
+  },
+  {
+    "name": "サンノゼ",
+    "country": "アメリカ",
+    "population": 1013240
+  },
+  {
+    "name": "オースティン",
+    "country": "アメリカ",
+    "population": 961855
+  },
+  {
+    "name": "ジャクソンビル",
+    "country": "アメリカ",
+    "population": 949611
+  },
+  {
+    "name": "フォートワース",
+    "country": "アメリカ",
+    "population": 918915
+  },
+  {
+    "name": "コロンバス",
+    "country": "アメリカ",
+    "population": 905748
+  },
+  {
+    "name": "インディアナポリス",
+    "country": "アメリカ",
+    "population": 887642
+  },
+  {
+    "name": "シャーロット",
+    "country": "アメリカ",
+    "population": 874579
+  },
+  {
+    "name": "サンフランシスコ",
+    "country": "アメリカ",
+    "population": 873965
+  },
+  {
+    "name": "シアトル",
+    "country": "アメリカ",
+    "population": 737015
+  },
+  {
+    "name": "デンバー",
+    "country": "アメリカ",
+    "population": 715522
+  },
+  {
+    "name": "ワシントン",
+    "country": "アメリカ",
+    "population": 689545
+  },
+  {
+    "name": "ナッシュビル",
+    "country": "アメリカ",
+    "population": 689447
+  },
+  {
+    "name": "オクラホマシティ",
+    "country": "アメリカ",
+    "population": 681054
+  },
+  {
+    "name": "エルパソ",
+    "country": "アメリカ",
+    "population": 678815
+  },
+  {
+    "name": "ボストン",
+    "country": "アメリカ",
+    "population": 675647
+  },
+  {
+    "name": "ポートランド",
+    "country": "アメリカ",
+    "population": 652503
+  },
+  {
+    "name": "ラスベガス",
+    "country": "アメリカ",
+    "population": 641903
+  },
+  {
+    "name": "デトロイド",
+    "country": "アメリカ",
+    "population": 639111
+  },
+  {
+    "name": "メンフィス",
+    "country": "アメリカ",
+    "population": 633104
+  },
+  {
+    "name": "ルイビル",
+    "country": "アメリカ",
+    "population": 633045
+  },
+  {
+    "name": "ボルチモア",
+    "country": "アメリカ",
+    "population": 585708
+  },
+  {
+    "name": "ミルウォーキー",
+    "country": "アメリカ",
+    "population": 577222
+  },
+  {
+    "name": "アルバカーキ",
+    "country": "アメリカ",
+    "population": 564559
+  },
+  {
+    "name": "ツーソン",
+    "country": "アメリカ",
+    "population": 542629
+  },
+  {
+    "name": "フレズノ",
+    "country": "アメリカ",
+    "population": 542107
+  },
+  {
+    "name": "サクラメント",
+    "country": "アメリカ",
+    "population": 524943
+  },
+  {
+    "name": "カンザスシティ",
+    "country": "アメリカ",
+    "population": 508090
+  },
+  {
+    "name": "メサ",
+    "country": "アメリカ",
+    "population": 504258
+  },
+  {
+    "name": "アトランタ",
+    "country": "アメリカ",
+    "population": 498715
+  },
+  {
+    "name": "オマハ",
+    "country": "アメリカ",
+    "population": 486051
+  },
+  {
+    "name": "コロラドスプリングス",
+    "country": "アメリカ",
+    "population": 478961
+  },
+  {
+    "name": "ローリー",
+    "country": "アメリカ",
+    "population": 467665
+  },
+  {
+    "name": "ロングビーチ",
+    "country": "アメリカ",
+    "population": 466742
+  },
+  {
+    "name": "バージニアビーチ",
+    "country": "アメリカ",
+    "population": 459470
+  },
+  {
+    "name": "マイアミ",
+    "country": "アメリカ",
+    "population": 442241
+  },
+  {
+    "name": "オークランド",
+    "country": "アメリカ",
+    "population": 440646
+  },
+  {
+    "name": "ミネアポリス",
+    "country": "アメリカ",
+    "population": 429954
+  },
+  {
+    "name": "タルサ",
+    "country": "アメリカ",
+    "population": 413066
+  },
+  {
+    "name": "ベーカーズフィールド",
+    "country": "アメリカ",
+    "population": 403455
+  },
+  {
+    "name": "ウィチタ",
+    "country": "アメリカ",
+    "population": 397532
+  },
+  {
+    "name": "アーリントン",
+    "country": "アメリカ",
+    "population": 394266
+  },
+  {
+    "name": "オーロラ",
+    "country": "アメリカ",
+    "population": 386261
+  },
+  {
+    "name": "タンパ",
+    "country": "アメリカ",
+    "population": 384959
+  },
+  {
+    "name": "ニューオーリンズ",
+    "country": "アメリカ",
+    "population": 383997
+  },
+  {
+    "name": "クリーブランド",
+    "country": "アメリカ",
+    "population": 372624
+  },
+  {
+    "name": "ホノルル",
+    "country": "アメリカ",
+    "population": 350964
+  },
+  {
+    "name": "アナハイム",
+    "country": "アメリカ",
+    "population": 346824
+  },
+  {
+    "name": "レキシントン",
+    "country": "アメリカ",
+    "population": 322570
+  },
+  {
+    "name": "ストックトン",
+    "country": "アメリカ",
+    "population": 320804
+  },
+  {
+    "name": "コーパスクリスティ",
+    "country": "アメリカ",
+    "population": 317863
+  },
+  {
+    "name": "ヘンダーソン",
+    "country": "アメリカ",
+    "population": 317610
+  },
+  {
+    "name": "リバーサイド",
+    "country": "アメリカ",
+    "population": 314998
+  },
+  {
+    "name": "ニューアーク",
+    "country": "アメリカ",
+    "population": 311549
+  },
+  {
+    "name": "セントポール",
+    "country": "アメリカ",
+    "population": 311527
+  },
+  {
+    "name": "サンタアナ",
+    "country": "アメリカ",
+    "population": 310227
+  },
+  {
+    "name": "シンシナティ",
+    "country": "アメリカ",
+    "population": 309317
+  },
+  {
+    "name": "アーバイン",
+    "country": "アメリカ",
+    "population": 307670
+  },
+  {
+    "name": "オーランド",
+    "country": "アメリカ",
+    "population": 307573
+  },
+  {
+    "name": "ピッツバーグ",
+    "country": "アメリカ",
+    "population": 302971
+  },
+  {
+    "name": "セントルイス",
+    "country": "アメリカ",
+    "population": 301578
+  },
+  {
+    "name": "グリーンズボロ",
+    "country": "アメリカ",
+    "population": 299035
+  },
+  {
+    "name": "ジャージーシティ",
+    "country": "アメリカ",
+    "population": 292449
+  },
+  {
+    "name": "アンカレッジ",
+    "country": "アメリカ",
+    "population": 291247
+  },
+  {
+    "name": "リンカーン",
+    "country": "アメリカ",
+    "population": 291082
+  },
+  {
+    "name": "プレイノ",
+    "country": "アメリカ",
+    "population": 285494
+  },
+  {
+    "name": "ダーラム",
+    "country": "アメリカ",
+    "population": 283506
+  },
+  {
+    "name": "バッファロー",
+    "country": "アメリカ",
+    "population": 278349
+  },
+  {
+    "name": "チャンドラー",
+    "country": "アメリカ",
+    "population": 275987
+  },
+  {
+    "name": "チュラビスタ",
+    "country": "アメリカ",
+    "population": 275487
+  },
+  {
+    "name": "トレド",
+    "country": "アメリカ",
+    "population": 270871
+  },
+  {
+    "name": "マディソン",
+    "country": "アメリカ",
+    "population": 269840
+  },
+  {
+    "name": "ギルバード",
+    "country": "アメリカ",
+    "population": 267918
+  },
+  {
+    "name": "リノ",
+    "country": "アメリカ",
+    "population": 264165
+  },
+  {
+    "name": "フォートウェイン",
+    "country": "アメリカ",
+    "population": 263886
+  },
+  {
+    "name": "ノースラスベガス",
+    "country": "アメリカ",
+    "population": 262527
+  },
+  {
+    "name": "セントピーターズバーグ",
+    "country": "アメリカ",
+    "population": 258308
+  },
+  {
+    "name": "ラボック",
+    "country": "アメリカ",
+    "population": 257141
+  },
+  {
+    "name": "アービング",
+    "country": "アメリカ",
+    "population": 256684
+  },
+  {
+    "name": "ラレド",
+    "country": "アメリカ",
+    "population": 255205
+  },
+  {
+    "name": "ウィンストン・セーラム",
+    "country": "アメリカ",
+    "population": 249545
+  },
+  {
+    "name": "チェサピーク",
+    "country": "アメリカ",
+    "population": 249422
+  },
+  {
+    "name": "グレンデール",
+    "country": "アメリカ",
+    "population": 248325
+  },
+  {
+    "name": "ガーランド",
+    "country": "アメリカ",
+    "population": 246018
+  },
+  {
+    "name": "スコッツデール",
+    "country": "アメリカ",
+    "population": 241361
+  },
+  {
+    "name": "ノーフォーク",
+    "country": "アメリカ",
+    "population": 238005
+  },
+  {
+    "name": "ボイシ",
+    "country": "アメリカ",
+    "population": 235684
+  },
+  {
+    "name": "フリーモント",
+    "country": "アメリカ",
+    "population": 230504
+  },
+  {
+    "name": "スポケーン",
+    "country": "アメリカ",
+    "population": 228989
+  },
+  {
+    "name": "サンタクラリタ",
+    "country": "アメリカ",
+    "population": 228673
+  },
+  {
+    "name": "バトンルージュ",
+    "country": "アメリカ",
+    "population": 227470
+  },
+  {
+    "name": "リッチモンド",
+    "country": "アメリカ",
+    "population": 226610
+  },
+  {
+    "name": "ハイアリア",
+    "country": "アメリカ",
+    "population": 223109
+  },
+  {
+    "name": "サンバーナーディーノ",
+    "country": "アメリカ",
+    "population": 222101
+  },
+  {
+    "name": "タコマ",
+    "country": "アメリカ",
+    "population": 219346
+  },
+  {
+    "name": "モデスト",
+    "country": "アメリカ",
+    "population": 218464
+  },
+  {
+    "name": "ハンツビル",
+    "country": "アメリカ",
+    "population": 215006
+  },
+  {
+    "name": "デモイン",
+    "country": "アメリカ",
+    "population": 214133
+  },
+  {
+    "name": "ヨンカーズ",
+    "country": "アメリカ",
+    "population": 211569
+  },
+  {
+    "name": "ロチェスター",
+    "country": "アメリカ",
+    "population": 211328
+  },
+  {
+    "name": "モレノバレー",
+    "country": "アメリカ",
+    "population": 208634
+  },
+  {
+    "name": "フェイエットビル",
+    "country": "アメリカ",
+    "population": 208501
+  },
+  {
+    "name": "フォンタナ",
+    "country": "アメリカ",
+    "population": 208393
+  },
+  {
+    "name": "コロンバス",
+    "country": "アメリカ",
+    "population": 206922
+  },
+  {
+    "name": "ウースター",
+    "country": "アメリカ",
+    "population": 206518
+  },
+  {
+    "name": "ポートセントルーシー",
+    "country": "アメリカ",
+    "population": 204851
+  },
+  {
+    "name": "リトルロック",
+    "country": "アメリカ",
+    "population": 202591
+  },
+  {
+    "name": "オーガスタ",
+    "country": "アメリカ",
+    "population": 202081
+  },
+  {
+    "name": "オックスナード",
+    "country": "アメリカ",
+    "population": 202063
+  },
+  {
+    "name": "バーミングハム",
+    "country": "アメリカ",
+    "population": 200733
+  },
+  {
+    "name": "モントゴメリー",
+    "country": "アメリカ",
+    "population": 200603
+  },
+  {
+    "name": "フリスコ",
+    "country": "アメリカ",
+    "population": 200509
+  },
+  {
+    "name": "アマリロ",
+    "country": "アメリカ",
+    "population": 200393
+  },
+  {
+    "name": "ソルトレイクシティ",
+    "country": "アメリカ",
+    "population": 199723
+  },
+  {
+    "name": "グランドラピッズ",
+    "country": "アメリカ",
+    "population": 198917
+  },
+  {
+    "name": "ハンティントンビーチ",
+    "country": "アメリカ",
+    "population": 198711
+  },
+  {
+    "name": "オーバーランドパーク",
+    "country": "アメリカ",
+    "population": 197238
+  },
+  {
+    "name": "グレンデール",
+    "country": "アメリカ",
+    "population": 196543
+  },
+  {
+    "name": "タラハシー",
+    "country": "アメリカ",
+    "population": 196169
+  },
+  {
+    "name": "グランドプレーリー",
+    "country": "アメリカ",
+    "population": 196100
+  },
+  {
+    "name": "マッキニー",
+    "country": "アメリカ",
+    "population": 195308
+  },
+  {
+    "name": "ケープコーラル",
+    "country": "アメリカ",
+    "population": 194016
+  },
+  {
+    "name": "スーフォールズ",
+    "country": "アメリカ",
+    "population": 192517
+  },
+  {
+    "name": "ピオリア",
+    "country": "アメリカ",
+    "population": 190985
+  },
+  {
+    "name": "プロビデンス",
+    "country": "アメリカ",
+    "population": 190934
+  },
+  {
+    "name": "バンクーバー",
+    "country": "アメリカ",
+    "population": 190915
+  },
+  {
+    "name": "ノックスビル",
+    "country": "アメリカ",
+    "population": 190740
+  },
+  {
+    "name": "アクロン",
+    "country": "アメリカ",
+    "population": 190469
+  },
+  {
+    "name": "シュリーブポート",
+    "country": "アメリカ",
+    "population": 187593
+  },
+  {
+    "name": "モービル",
+    "country": "アメリカ",
+    "population": 187041
+  },
+  {
+    "name": "ブラウンズビル",
+    "country": "アメリカ",
+    "population": 186738
+  },
+  {
+    "name": "ニューポートニューズ",
+    "country": "アメリカ",
+    "population": 186247
+  },
+  {
+    "name": "フォートローダーデール",
+    "country": "アメリカ",
+    "population": 182760
+  },
+  {
+    "name": "チャタヌーガ",
+    "country": "アメリカ",
+    "population": 181099
+  },
+  {
+    "name": "テンピ",
+    "country": "アメリカ",
+    "population": 180587
+  },
+  {
+    "name": "オーロラ",
+    "country": "アメリカ",
+    "population": 180542
+  },
+  {
+    "name": "サンタローザ",
+    "country": "アメリカ",
+    "population": 178127
+  },
+  {
+    "name": "ユージーン",
+    "country": "アメリカ",
+    "population": 176654
+  },
+  {
+    "name": "エルクグローブ",
+    "country": "アメリカ",
+    "population": 176124
+  },
+  {
+    "name": "セーラム",
+    "country": "アメリカ",
+    "population": 175535
+  },
+  {
+    "name": "オンタリオ",
+    "country": "アメリカ",
+    "population": 175265
+  },
+  {
+    "name": "ケーリー",
+    "country": "アメリカ",
+    "population": 174721
+  },
+  {
+    "name": "ランチョクカモンガ",
+    "country": "アメリカ",
+    "population": 174453
+  },
+  {
+    "name": "オーシャンサイド",
+    "country": "アメリカ",
+    "population": 174068
+  },
+  {
+    "name": "ランカスター",
+    "country": "アメリカ",
+    "population": 173516
+  },
+  {
+    "name": "ガーデングローブ",
+    "country": "アメリカ",
+    "population": 171949
+  },
+  {
+    "name": "ペンブロークパインズ",
+    "country": "アメリカ",
+    "population": 171178
+  },
+  {
+    "name": "フォートコリンズ",
+    "country": "アメリカ",
+    "population": 169810
+  },
+  {
+    "name": "パームデール",
+    "country": "アメリカ",
+    "population": 169450
+  },
+  {
+    "name": "スプリングフィールド",
+    "country": "アメリカ",
+    "population": 169176
+  },
+  {
+    "name": "クラークスビル",
+    "country": "アメリカ",
+    "population": 166722
+  },
+  {
+    "name": "サリナス",
+    "country": "アメリカ",
+    "population": 163542
+  },
+  {
+    "name": "ヘイワード",
+    "country": "アメリカ",
+    "population": 162954
+  },
+  {
+    "name": "パターソン",
+    "country": "アメリカ",
+    "population": 159732
+  },
+  {
+    "name": "アレクサンドリア",
+    "country": "アメリカ",
+    "population": 159467
+  },
+  {
+    "name": "メーコン",
+    "country": "アメリカ",
+    "population": 157346
+  },
+  {
+    "name": "コロナ",
+    "country": "アメリカ",
+    "population": 157136
+  },
+  {
+    "name": "カンザスシティ",
+    "country": "アメリカ",
+    "population": 156607
+  },
+  {
+    "name": "レイクウッド",
+    "country": "アメリカ",
+    "population": 155984
+  },
+  {
+    "name": "スプリングフィールド",
+    "country": "アメリカ",
+    "population": 155929
+  },
+  {
+    "name": "サニーベール",
+    "country": "アメリカ",
+    "population": 155805
+  },
+  {
+    "name": "ジャクソン",
+    "country": "アメリカ",
+    "population": 153701
+  },
+  {
+    "name": "キリーン",
+    "country": "アメリカ",
+    "population": 153095
+  },
+  {
+    "name": "ハリウッド",
+    "country": "アメリカ",
+    "population": 153067
+  },
+  {
+    "name": "マーフリーズボロ",
+    "country": "アメリカ",
+    "population": 152769
+  },
+  {
+    "name": "パサディナ",
+    "country": "アメリカ",
+    "population": 151950
+  },
+  {
+    "name": "ベルビュー",
+    "country": "アメリカ",
+    "population": 151854
   }
 ]
