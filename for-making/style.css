@@ -1,0 +1,39 @@
+body {
+  font-size: 20px;
+  text-align: center;
+  background-color: #e0ffff;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+#city, #country, #population {
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 3px;
+  border: 2px solid #ddd;
+  box-sizing: border-box;
+}
+
+#selectedCities {
+  font-size: medium;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  .button {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}

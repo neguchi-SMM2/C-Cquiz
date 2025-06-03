@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>都市データ作成ツール</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-6">
+  <div class="max-w-3xl mx-auto bg-white p-6 rounded-xl shadow-lg">
+    <h1 class="text-2xl font-bold mb-4">都市データ作成ツール</h1>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4">
+      <input id="name" type="text" placeholder="都市名" class="p-2 border rounded">
+      <input id="country" type="text" placeholder="国名" class="p-2 border rounded">
+      <input id="population" type="number" placeholder="人口" class="p-2 border rounded">
+    </div>
+
+    <button id="addBtn" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">追加</button>
+
+    <h2 class="text-xl font-semibold mt-6 mb-2">追加済みの都市</h2>
+    <ul id="cityList" class="list-disc pl-5 mb-4 text-gray-700"></ul>
+
+    <h2 class="text-xl font-semibold mb-2">JSON出力</h2>
+    <textarea id="output" rows="10" class="w-full p-2 border rounded font-mono text-sm"></textarea>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
