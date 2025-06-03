@@ -2393,5 +2393,310 @@
     "name": "ワルグラ",
     "country": "アルジェリア",
     "population": 133024
+  },
+  {
+    "name": "ブエノス・アイレス",
+    "country": "アルジェリア",
+    "population": 14879100
+  },
+  {
+    "name": "コルドバ",
+    "country": "アルゼンチン",
+    "population": 1587200
+  },
+  {
+    "name": "ロサリオ",
+    "country": "アルゼンチン",
+    "population": 1322500
+  },
+  {
+    "name": "メンドーサ",
+    "country": "アルゼンチン",
+    "population": 1032800
+  },
+  {
+    "name": "サン・ミゲル・デ・トゥクマン",
+    "country": "アルゼンチン",
+    "population": 883600
+  },
+  {
+    "name": "ラ・プラタ",
+    "country": "アルゼンチン",
+    "population": 840100
+  },
+  {
+    "name": "サルタ",
+    "country": "アルゼンチン",
+    "population": 626600
+  },
+  {
+    "name": "マル・デル・プラタ",
+    "country": "アルゼンチン",
+    "population": 620400
+  },
+  {
+    "name": "サンタ・フェ",
+    "country": "アルゼンチン",
+    "population": 531300
+  },
+  {
+    "name": "サン・フアン",
+    "country": "アルゼンチン",
+    "population": 503200
+  },
+  {
+    "name": "アベジャネーダ",
+    "country": "アルゼンチン",
+    "population": 24313
+  },
+  {
+    "name": "アベジャネーダ・パルティード",
+    "country": "アルゼンチン",
+    "population": 340985
+  },
+  {
+    "name": "ウシュアイア",
+    "country": "アルゼンチン",
+    "population": 70000
+  },
+  {
+    "name": "エセイサ・パルティード",
+    "country": "アルゼンチン",
+    "population": 118807
+  },
+  {
+    "name": "エル・カラファテ",
+    "country": "アルゼンチン",
+    "population": 21900
+  },
+  {
+    "name": "カニャーダ・デ・ゴメス",
+    "country": "アルゼンチン",
+    "population": 29740
+  },
+  {
+    "name": "カリンガスタ",
+    "country": "アルゼンチン",
+    "population": 8176
+  },
+  {
+    "name": "キルメス",
+    "country": "アルゼンチン",
+    "population": 230810
+  },
+  {
+    "name": "キルメス・パルティード",
+    "country": "アルゼンチン",
+    "population": 580829
+  },
+  {
+    "name": "コモドーロ・リバダビア",
+    "country": "アルゼンチン",
+    "population": 182631
+  },
+  {
+    "name": "コリエンテス",
+    "country": "アルゼンチン",
+    "population": 346334
+  },
+  {
+    "name": "コンコルディア",
+    "country": "アルゼンチン",
+    "population": 157514
+  },
+  {
+    "name": "サン・イシドロ・パルティード",
+    "country": "アルゼンチン",
+    "population": 291608
+  },
+  {
+    "name": "サン・カルロス・デ・バリローチェ",
+    "country": "アルゼンチン",
+    "population": 108205
+  },
+  {
+    "name": "サン・サルバドール・デ・フフイ",
+    "country": "アルゼンチン",
+    "population": 257970
+  },
+  {
+    "name": "サンタローサ",
+    "country": "アルゼンチン",
+    "population": 111400
+  },
+  {
+    "name": "サンティアゴ・デル・エステロ",
+    "country": "アルゼンチン",
+    "population": 230614
+  },
+  {
+    "name": "サン・フェルナンド・デル・バジェ・デ・カタマルカ",
+    "country": "アルゼンチン",
+    "population": 159703
+  },
+  {
+    "name": "サン・ルイス",
+    "country": "アルゼンチン",
+    "population": 202300
+  },
+  {
+    "name": "サンロレンソ",
+    "country": "アルゼンチン",
+    "population": 46239
+  },
+  {
+    "name": "タンディル",
+    "country": "アルゼンチン",
+    "population": 110627
+  },
+  {
+    "name": "チャラタ",
+    "country": "アルゼンチン",
+    "population": 27379
+  },
+  {
+    "name": "ティグレ",
+    "country": "アルゼンチン",
+    "population": 31106
+  },
+  {
+    "name": "テルマス・デ・リオ・オンド",
+    "country": "アルゼンチン",
+    "population": 27838
+  },
+  {
+    "name": "トレレウ",
+    "country": "アルゼンチン",
+    "population": 98602
+  },
+  {
+    "name": "ネウケン",
+    "country": "アルゼンチン",
+    "population": 231198
+  },
+  {
+    "name": "バイアブランカ",
+    "country": "アルゼンチン",
+    "population": 322000
+  },
+  {
+    "name": "パラナ",
+    "country": "アルゼンチン",
+    "population": 247139
+  },
+  {
+    "name": "バンフィエルド",
+    "country": "アルゼンチン",
+    "population": 223898
+  },
+  {
+    "name": "ビエドマ",
+    "country": "アルゼンチン",
+    "population": 60476
+  },
+  {
+    "name": "ビジャ・カステリ",
+    "country": "アルゼンチン",
+    "population": 1697
+  },
+  {
+    "name": "ビジャ・メルセデス",
+    "country": "アルゼンチン",
+    "population": 96781
+  },
+  {
+    "name": "プエルト・イグアス",
+    "country": "アルゼンチン",
+    "population": 32038
+  },
+  {
+    "name": "フォルモーサ",
+    "country": "アルゼンチン",
+    "population": 234354
+  },
+  {
+    "name": "ヘネラル・アルベアール",
+    "country": "アルゼンチン",
+    "population": 28956
+  },
+  {
+    "name": "ペルガミーノ",
+    "country": "アルゼンチン",
+    "population": 104922
+  },
+  {
+    "name": "ポサーダス",
+    "country": "アルゼンチン",
+    "population": 323739
+  },
+  {
+    "name": "マル・デ・アホ",
+    "country": "アルゼンチン",
+    "population": 13769
+  },
+  {
+    "name": "メルロ",
+    "country": "アルゼンチン",
+    "population": 244168
+  },
+  {
+    "name": "モロン",
+    "country": "アルゼンチン",
+    "population": 92725
+  },
+  {
+    "name": "ラウソン",
+    "country": "アルゼンチン",
+    "population": 26306
+  },
+  {
+    "name": "ラコスタ",
+    "country": "アルゼンチン",
+    "population": 69633
+  },
+  {
+    "name": "ラヌース",
+    "country": "アルゼンチン",
+    "population": 212152
+  },
+  {
+    "name": "ラパス",
+    "country": "アルゼンチン",
+    "population": 9560
+  },
+  {
+    "name": "ラ・リオハ",
+    "country": "アルゼンチン",
+    "population": 180995
+  },
+  {
+    "name": "リオ・ガジェゴス",
+    "country": "アルゼンチン",
+    "population": 107000
+  },
+  {
+    "name": "リオ・クアルト",
+    "country": "アルゼンチン",
+    "population": 159706
+  },
+  {
+    "name": "リオ・グランデ",
+    "country": "アルゼンチン",
+    "population": 67038
+  },
+  {
+    "name": "レクレオ",
+    "country": "アルゼンチン",
+    "population": 11847
+  },
+  {
+    "name": "レシステンシア",
+    "country": "アルゼンチン",
+    "population": 290723
+  },
+  {
+    "name": "ローマス・デ・サモーラ",
+    "country": "アルゼンチン",
+    "population": 111897
   }
 ]
