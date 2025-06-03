@@ -13,13 +13,12 @@ fetch("cities.json")
   });
 
 function generate() {
-  let citiesValue = "";
-  let selectedCities = [];
-  for (let i = 0; i < cities.length; i++) {
-    citiesValue = cities[i];
-    if (citiesValue.population >= minPopInput && citiesValue.population <= maxPopInput) {
-      selectedCities.push(citiesValue);
-    }
-  }
-  result.innerHTML = selectedCities;
+  const minPop = parseInt(minPopInput.value, 10);
+  const maxPop = parseInt(maxPopInput.value, 10);
+
+  let selectedCities = cities.filter(city => 
+    city.population >= minPop && city.population <= maxPop
+  );
+
+  result.innerHTML = selectedCities.map(city => `<li>${city.name} (${city.population})</li>`).join('');
 }
