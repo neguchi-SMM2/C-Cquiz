@@ -5,6 +5,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
+  font-family: "MS Pゴシック";
 }
 
 #minPop, #maxPop {
@@ -14,6 +15,10 @@ body {
   border-radius: 3px;
   border: 2px solid #ddd;
   box-sizing: border-box;
+}
+
+#selectedCities {
+  font-size: medium;
 }
 
 @media (max-width: 768px) {
