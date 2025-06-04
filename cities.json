@@ -3088,5 +3088,255 @@
     "name": "モカ",
     "country": "イエメン",
     "population": 16794
+  },
+  {
+    "name": "ロンドン",
+    "country": "イギリス",
+    "population": 7554236
+  },
+  {
+    "name": "バーミンガム",
+    "country": "イギリス",
+    "population": 989141
+  },
+  {
+    "name": "グラスゴー",
+    "country": "イギリス",
+    "population": 604355
+  },
+  {
+    "name": "リヴァプール",
+    "country": "イギリス",
+    "population": 468011
+  },
+  {
+    "name": "リーズ",
+    "country": "イギリス",
+    "population": 460459
+  },
+  {
+    "name": "シェフィールド",
+    "country": "イギリス",
+    "population": 449971
+  },
+  {
+    "name": "エディンバラ",
+    "country": "イギリス",
+    "population": 441419
+  },
+  {
+    "name": "ブリストル",
+    "country": "イギリス",
+    "population": 435028
+  },
+  {
+    "name": "マンチェスター",
+    "country": "イギリス",
+    "population": 395323
+  },
+  {
+    "name": "レスター",
+    "country": "イギリス",
+    "population": 343019
+  },
+  {
+    "name": "コヴェントリー",
+    "country": "イギリス",
+    "population": 310200
+  },
+  {
+    "name": "カーディフ",
+    "country": "イギリス",
+    "population": 307364
+  },
+  {
+    "name": "キングストン・アポン・ハル",
+    "country": "イギリス",
+    "population": 301984
+  },
+  {
+    "name": "ブラッドフォード",
+    "country": "イギリス",
+    "population": 301499
+  },
+  {
+    "name": "ベルファスト",
+    "country": "イギリス",
+    "population": 274586
+  },
+  {
+    "name": "ストーク＝オン＝トレント",
+    "country": "イギリス",
+    "population": 260336
+  },
+  {
+    "name": "ウルヴァーハンプトン",
+    "country": "イギリス",
+    "population": 252814
+  },
+  {
+    "name": "サウサンプトン",
+    "country": "イギリス",
+    "population": 252129
+  },
+  {
+    "name": "レディング",
+    "country": "イギリス",
+    "population": 249462
+  },
+  {
+    "name": "プリマス",
+    "country": "イギリス",
+    "population": 248402
+  },
+  {
+    "name": "ノッティンガム",
+    "country": "イギリス",
+    "population": 244411
+  },
+  {
+    "name": "ダービー",
+    "country": "イギリス",
+    "population": 237341
+  },
+  {
+    "name": "ノーサンプトン",
+    "country": "イギリス",
+    "population": 200787
+  },
+  {
+    "name": "ダドリー",
+    "country": "イギリス",
+    "population": 200668
+  },
+  {
+    "name": "ルートン",
+    "country": "イギリス",
+    "population": 197492
+  },
+  {
+    "name": "ポーツマス",
+    "country": "イギリス",
+    "population": 197471
+  },
+  {
+    "name": "ニューカッスル・アポン・タイン",
+    "country": "イギリス",
+    "population": 193267
+  },
+  {
+    "name": "プレストン",
+    "country": "イギリス",
+    "population": 193215
+  },
+  {
+    "name": "アバディーン",
+    "country": "イギリス",
+    "population": 184334
+  },
+  {
+    "name": "ノリッジ",
+    "country": "イギリス",
+    "population": 179048
+  },
+  {
+    "name": "ボーンマス",
+    "country": "イギリス",
+    "population": 178499
+  },
+  {
+    "name": "サンダーランド",
+    "country": "イギリス",
+    "population": 177666
+  },
+  {
+    "name": "ウォルソール",
+    "country": "イギリス",
+    "population": 172282
+  },
+  {
+    "name": "スウォンジー",
+    "country": "イギリス",
+    "population": 171352
+  },
+  {
+    "name": "スウィンドン",
+    "country": "イギリス",
+    "population": 165633
+  },
+  {
+    "name": "サウスエンド＝オン＝シー",
+    "country": "イギリス",
+    "population": 164563
+  },
+  {
+    "name": "オックスフォード",
+    "country": "イギリス",
+    "population": 160587
+  },
+  {
+    "name": "プール",
+    "country": "イギリス",
+    "population": 152389
+  },
+  {
+    "name": "ダンディー",
+    "country": "イギリス",
+    "population": 150935
+  },
+  {
+    "name": "ハダースフィールド",
+    "country": "イギリス",
+    "population": 150127
+  },
+  {
+    "name": "ヨーク",
+    "country": "イギリス",
+    "population": 147468
+  },
+  {
+    "name": "イプスウィッチ",
+    "country": "イギリス",
+    "population": 146110
+  },
+  {
+    "name": "ブラックプール",
+    "country": "イギリス",
+    "population": 143122
+  },
+  {
+    "name": "ミドルスブラ",
+    "country": "イギリス",
+    "population": 142393
+  },
+  {
+    "name": "ボルトン",
+    "country": "イギリス",
+    "population": 142002
+  },
+  {
+    "name": "ピーターバラ",
+    "country": "イギリス",
+    "population": 141608
+  },
+  {
+    "name": "ブライトン",
+    "country": "イギリス",
+    "population": 141268
+  },
+  {
+    "name": "ストックポート",
+    "country": "イギリス",
+    "population": 140282
+  },
+  {
+    "name": "オールドバリー",
+    "country": "イギリス",
+    "population": 139278
+  },
+  {
+    "name": "スラウ",
+    "country": "イギリス",
+    "population": 137982
   }
 ]
