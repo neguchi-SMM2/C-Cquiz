@@ -2698,5 +2698,395 @@
     "name": "ローマス・デ・サモーラ",
     "country": "アルゼンチン",
     "population": 111897
+  },
+  {
+    "name": "ティラナ",
+    "country": "アルバニア",
+    "population": 418495
+  },
+  {
+    "name": "ドゥラス",
+    "country": "アルバニア",
+    "population": 113249
+  },
+  {
+    "name": "ヴロラ",
+    "country": "アルバニア",
+    "population": 79513
+  },
+  {
+    "name": "エルバサン",
+    "country": "アルバニア",
+    "population": 78703
+  },
+  {
+    "name": "シュコドラ",
+    "country": "アルバニア",
+    "population": 76000
+  },
+  {
+    "name": "フィエル",
+    "country": "アルバニア",
+    "population": 55845
+  },
+  {
+    "name": "コルチャ",
+    "country": "アルバニア",
+    "population": 51152
+  },
+  {
+    "name": "ベラト",
+    "country": "アルバニア",
+    "population": 36496
+  },
+  {
+    "name": "ルシュニャ",
+    "country": "アルバニア",
+    "population": 27000
+  },
+  {
+    "name": "ポグラデツ",
+    "country": "アルバニア",
+    "population": 20848
+  },
+  {
+    "name": "クルヤ",
+    "country": "アルバニア",
+    "population": 15829
+  },
+  {
+    "name": "サランダ",
+    "country": "アルバニア",
+    "population": 32000
+  },
+  {
+    "name": "ジロカストラ",
+    "country": "アルバニア",
+    "population": 43095
+  },
+  {
+    "name": "ブレル",
+    "country": "アルバニア",
+    "population": 17751
+  },
+  {
+    "name": "ペシュコピ",
+    "country": "アルバニア",
+    "population": 14100
+  },
+  {
+    "name": "ペチン",
+    "country": "アルバニア",
+    "population": 10000
+  },
+  {
+    "name": "エレバン",
+    "country": "アルメニア",
+    "population": 1073700
+  },
+  {
+    "name": "ギュムリ",
+    "country": "アルメニア",
+    "population": 117700
+  },
+  {
+    "name": "ヴァナゾル",
+    "country": "アルメニア",
+    "population": 82200
+  },
+  {
+    "name": "エチミアジン",
+    "country": "アルメニア",
+    "population": 46700
+  },
+  {
+    "name": "アボビャン",
+    "country": "アルメニア",
+    "population": 44400
+  },
+  {
+    "name": "カパン",
+    "country": "アルメニア",
+    "population": 42600
+  },
+  {
+    "name": "フラズダン",
+    "country": "アルメニア",
+    "population": 41200
+  },
+  {
+    "name": "アルマヴィル",
+    "country": "アルメニア",
+    "population": 28900
+  },
+  {
+    "name": "アルタシャト",
+    "country": "アルメニア",
+    "population": 20700
+  },
+  {
+    "name": "イジェヴァン",
+    "country": "アルメニア",
+    "population": 20700
+  },
+  {
+    "name": "アシュタラク",
+    "country": "アルメニア",
+    "population": 20636
+  },
+  {
+    "name": "アララト",
+    "country": "アルメニア",
+    "population": 20480
+  },
+  {
+    "name": "ガバル",
+    "country": "アルメニア",
+    "population": 20765
+  },
+  {
+    "name": "カモ",
+    "country": "アルメニア",
+    "population": 1456
+  },
+  {
+    "name": "ゴリス",
+    "country": "アルメニア",
+    "population": 23000
+  },
+  {
+    "name": "ルアンダ",
+    "country": "アンゴラ",
+    "population": 2583981
+  },
+  {
+    "name": "カビンダ",
+    "country": "アンゴラ",
+    "population": 377931
+  },
+  {
+    "name": "ウアンボ",
+    "country": "アンゴラ",
+    "population": 333387
+  },
+  {
+    "name": "ルバンゴ",
+    "country": "アンゴラ",
+    "population": 250921
+  },
+  {
+    "name": "クイト",
+    "country": "アンゴラ",
+    "population": 180764
+  },
+  {
+    "name": "マランジェ",
+    "country": "アンゴラ",
+    "population": 156829
+  },
+  {
+    "name": "ロビト",
+    "country": "アンゴラ",
+    "population": 145652
+  },
+  {
+    "name": "ベンゲラ",
+    "country": "アンゴラ",
+    "population": 131281
+  },
+  {
+    "name": "ウイジェ",
+    "country": "アンゴラ",
+    "population": 116751
+  },
+  {
+    "name": "モサメデス",
+    "country": "アンゴラ",
+    "population": 89442
+  },
+  {
+    "name": "スンベ",
+    "country": "アンゴラ",
+    "population": 51749
+  },
+  {
+    "name": "メノングエ",
+    "country": "アンゴラ",
+    "population": 320914
+  },
+  {
+    "name": "ルバンゴ",
+    "country": "アンゴラ",
+    "population": 776246
+  },
+  {
+    "name": "ンバンザ＝コンゴ",
+    "country": "アンゴラ",
+    "population": 67600
+  },
+  {
+    "name": "セントジョンズ",
+    "country": "アンティグア・バーブーダ",
+    "population": 24451
+  },
+  {
+    "name": "オール・セインツ",
+    "country": "アンティグア・バーブーダ",
+    "population": 3900
+  },
+  {
+    "name": "リベルタ",
+    "country": "アンティグア・バーブーダ",
+    "population": 2560
+  },
+  {
+    "name": "ポッターズ・ウィレッジ",
+    "country": "アンティグア・バーブーダ",
+    "population": 2066
+  },
+  {
+    "name": "ボランス",
+    "country": "アンティグア・バーブーダ",
+    "population": 1888
+  },
+  {
+    "name": "スウィーツ",
+    "country": "アンティグア・バーブーダ",
+    "population": 1837
+  },
+  {
+    "name": "シービュー・ファーム",
+    "country": "アンティグア・バーブーダ",
+    "population": 1684
+  },
+  {
+    "name": "パーハム",
+    "country": "アンティグア・バーブーダ",
+    "population": 1491
+  },
+  {
+    "name": "ピゴッツ",
+    "country": "アンティグア・バーブーダ",
+    "population": 1478
+  },
+  {
+    "name": "クレア・ホール",
+    "country": "アンティグア・バーブーダ",
+    "population": 1359
+  },
+  {
+    "name": "カーライル",
+    "country": "アンティグア・バーブーダ",
+    "population": 358
+  },
+  {
+    "name": "コドリントン",
+    "country": "アンティグア・バーブーダ",
+    "population": 1325
+  },
+  {
+    "name": "イングリッシュ・ハーバー",
+    "country": "アンティグア・バーブーダ",
+    "population": 570
+  },
+  {
+    "name": "オズボーン",
+    "country": "アンティグア・バーブーダ",
+    "population": 35
+  },
+  {
+    "name": "ウィリキーズ",
+    "country": "アンティグア・バーブーダ",
+    "population": 1179
+  },
+  {
+    "name": "アンドラ・ラ・ベリャ",
+    "country": "アンドラ",
+    "population": 19884
+  },
+  {
+    "name": "エル・セラット",
+    "country": "アンドラ",
+    "population": 227
+  },
+  {
+    "name": "ビラ",
+    "country": "アンドラ",
+    "population": 1062
+  },
+  {
+    "name": "サナア",
+    "country": "イエメン",
+    "population": 1937451
+  },
+  {
+    "name": "アデン",
+    "country": "イエメン",
+    "population": 760923
+  },
+  {
+    "name": "タイズ",
+    "country": "イエメン",
+    "population": 615222
+  },
+  {
+    "name": "フダイダ",
+    "country": "イエメン",
+    "population": 548433
+  },
+  {
+    "name": "ムカッラー",
+    "country": "イエメン",
+    "population": 531205
+  },
+  {
+    "name": "イッブ",
+    "country": "イエメン",
+    "population": 225611
+  },
+  {
+    "name": "ザマール",
+    "country": "イエメン",
+    "population": 160114
+  },
+  {
+    "name": "ジンジバール",
+    "country": "イエメン",
+    "population": 70801
+  },
+  {
+    "name": "サイヤーン",
+    "country": "イエメン",
+    "population": 69993
+  },
+  {
+    "name": "アッ・シフル",
+    "country": "イエメン",
+    "population": 68313
+  },
+  {
+    "name": "アタク",
+    "country": "イエメン",
+    "population": 37315
+  },
+  {
+    "name": "サユーン",
+    "country": "イエメン",
+    "population": 75700
+  },
+  {
+    "name": "シバーム",
+    "country": "イエメン",
+    "population": 7000
+  },
+  {
+    "name": "マアリブ",
+    "country": "イエメン",
+    "population": 16794
+  },
+  {
+    "name": "モカ",
+    "country": "イエメン",
+    "population": 16794
   }
 ]
