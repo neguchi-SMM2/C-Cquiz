@@ -4078,5 +4078,315 @@
     "name": "カールトン",
     "country": "イギリス",
     "population": 50179
+  },
+  {
+    "name": "エルサレム",
+    "country": "イスラエル",
+    "population": 732100
+  },
+  {
+    "name": "テルアビブ",
+    "country": "イスラエル",
+    "population": 384600
+  },
+  {
+    "name": "ハイファ",
+    "country": "イスラエル",
+    "population": 267000
+  },
+  {
+    "name": "リション・レジオン",
+    "country": "イスラエル",
+    "population": 222300
+  },
+  {
+    "name": "アシュドッド",
+    "country": "イスラエル",
+    "population": 204400
+  },
+  {
+    "name": "ベエルシェバ",
+    "country": "イスラエル",
+    "population": 185800
+  },
+  {
+    "name": "ペタフ・ティクヴァ",
+    "country": "イスラエル",
+    "population": 184200
+  },
+  {
+    "name": "ネタニヤ",
+    "country": "イスラエル",
+    "population": 174000
+  },
+  {
+    "name": "ホロン",
+    "country": "イスラエル",
+    "population": 167300
+  },
+  {
+    "name": "ブネイ・ブラク",
+    "country": "イスラエル",
+    "population": 147800
+  },
+  {
+    "name": "バト・ヤム",
+    "country": "イスラエル",
+    "population": 129900
+  },
+  {
+    "name": "ラマト・ガン",
+    "country": "イスラエル",
+    "population": 129800
+  },
+  {
+    "name": "アシュケロン",
+    "country": "イスラエル",
+    "population": 107900
+  },
+  {
+    "name": "レホヴォト",
+    "country": "イスラエル",
+    "population": 104600
+  },
+  {
+    "name": "ヘルツリーヤ",
+    "country": "イスラエル",
+    "population": 84200
+  },
+  {
+    "name": "クファル・サバ",
+    "country": "イスラエル",
+    "population": 81400
+  },
+  {
+    "name": "ハデラ",
+    "country": "イスラエル",
+    "population": 76400
+  },
+  {
+    "name": "ラーナナ",
+    "country": "イスラエル",
+    "population": 72800
+  },
+  {
+    "name": "ベト・シェメシュ",
+    "country": "イスラエル",
+    "population": 69300
+  },
+  {
+    "name": "ロード",
+    "country": "イスラエル",
+    "population": 66900
+  },
+  {
+    "name": "ナザレ",
+    "country": "イスラエル",
+    "population": 64800
+  },
+  {
+    "name": "ラムラ",
+    "country": "イスラエル",
+    "population": 64200
+  },
+  {
+    "name": "モディイン・マカビム・レウト",
+    "country": "イスラエル",
+    "population": 62200
+  },
+  {
+    "name": "ナハリヤ",
+    "country": "イスラエル",
+    "population": 50500
+  },
+  {
+    "name": "キリャト・アッタ",
+    "country": "イスラエル",
+    "population": 49500
+  },
+  {
+    "name": "ギヴァタイム",
+    "country": "イスラエル",
+    "population": 49400
+  },
+  {
+    "name": "キルヤット・ガト",
+    "country": "イスラエル",
+    "population": 47800
+  },
+  {
+    "name": "エイラート",
+    "country": "イスラエル",
+    "population": 46500
+  },
+  {
+    "name": "アッコ",
+    "country": "イスラエル",
+    "population": 46000
+  },
+  {
+    "name": "ホド・ハシャロン",
+    "country": "イスラエル",
+    "population": 44500
+  },
+  {
+    "name": "カルミエル",
+    "country": "イスラエル",
+    "population": 44200
+  },
+  {
+    "name": "ナザレ・イリット",
+    "country": "イスラエル",
+    "population": 43700
+  },
+  {
+    "name": "ウム・アル＝ファハム",
+    "country": "イスラエル",
+    "population": 42100
+  },
+  {
+    "name": "ラハト",
+    "country": "イスラエル",
+    "population": 40400
+  },
+  {
+    "name": "ティベリア",
+    "country": "イスラエル",
+    "population": 40100
+  },
+  {
+    "name": "キルヤト・モツキン",
+    "country": "イスラエル",
+    "population": 39800
+  },
+  {
+    "name": "アフラ",
+    "country": "イスラエル",
+    "population": 39300
+  },
+  {
+    "name": "ロッシュ・ハアイン",
+    "country": "イスラエル",
+    "population": 37400
+  },
+  {
+    "name": "キリャト・ヤム",
+    "country": "イスラエル",
+    "population": 37300
+  },
+  {
+    "name": "ラマト・ハシャロン",
+    "country": "イスラエル",
+    "population": 36800
+  },
+  {
+    "name": "キリャト・ビアリク",
+    "country": "イスラエル",
+    "population": 36600
+  },
+  {
+    "name": "モディイン・イリット",
+    "country": "イスラエル",
+    "population": 34500
+  },
+  {
+    "name": "タイベ",
+    "country": "イスラエル",
+    "population": 33800
+  },
+  {
+    "name": "シェファルアム",
+    "country": "イスラエル",
+    "population": 33500
+  },
+  {
+    "name": "ディモナ",
+    "country": "イスラエル",
+    "population": 33400
+  },
+  {
+    "name": "ヤブネ",
+    "country": "イスラエル",
+    "population": 31900
+  },
+  {
+    "name": "マアレ・アドゥンミーム",
+    "country": "イスラエル",
+    "population": 31700
+  },
+  {
+    "name": "オルーイェフダ",
+    "country": "イスラエル",
+    "population": 31200
+  },
+  {
+    "name": "ネス・ジオナ",
+    "country": "イスラエル",
+    "population": 30900
+  },
+  {
+    "name": "ツファット",
+    "country": "イスラエル",
+    "population": 28100
+  },
+  {
+    "name": "タムラ",
+    "country": "イスラエル",
+    "population": 26500
+  },
+  {
+    "name": "キリヤット・オノ",
+    "country": "イスラエル",
+    "population": 26200
+  },
+  {
+    "name": "サフニン",
+    "country": "イスラエル",
+    "population": 25000
+  },
+  {
+    "name": "ネティボット",
+    "country": "イスラエル",
+    "population": 24900
+  },
+  {
+    "name": "オファキム",
+    "country": "イスラエル",
+    "population": 24500
+  },
+  {
+    "name": "アラド",
+    "country": "イスラエル",
+    "population": 23400
+  },
+  {
+    "name": "キリヤット・シュモナ",
+    "country": "イスラエル",
+    "population": 22100
+  },
+  {
+    "name": "ネシェル",
+    "country": "イスラエル",
+    "population": 21300
+  },
+  {
+    "name": "スデロット",
+    "country": "イスラエル",
+    "population": 19900
+  },
+  {
+    "name": "キリヤット・マラヒ",
+    "country": "イスラエル",
+    "population": 19500
+  },
+  {
+    "name": "アリエル",
+    "country": "イスラエル",
+    "population": 16500
+  },
+  {
+    "name": "オル・アキバ",
+    "country": "イスラエル",
+    "population": 15800
   }
 ]
